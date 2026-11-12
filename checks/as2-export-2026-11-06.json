@@ -1,6 +1,0 @@
-{
-  "version": "AS2",
-  "entry": "TrainMain",
-  "roomTransitionFiles": true,
-  "saveBridge": true
-}

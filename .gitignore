@@ -11,3 +11,4 @@ exports/
 flashlib/
 outputs/
 *.exe
+checks/
